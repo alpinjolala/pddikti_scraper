@@ -25,7 +25,7 @@ Ekstensi browser (Chrome / Microsoft Edge Manifest V3) untuk mengekstrak data do
 3. Aktifkan **Developer mode** (Mode pengembang) di pojok kanan atas (Chrome) atau kiri bawah (Edge).
 4. Klik tombol **Load unpacked** (Muat yang belum dibuka).
 5. Pilih folder proyek ini:
-   `e:\Data dan Dokumen\Kerja\UIN Antasari Banjarmasin\Ekstensi Browser\pddikti_scraper`
+   `pddikti_scraper`
 
 ## Cara Menggunakan
 
